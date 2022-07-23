@@ -1,6 +1,6 @@
-# Attractive Advance Portfolio Website
+# Attractive Advance Portfolio Website  [Live](https://gopoo23.github.io/Chit-Chat-with-Gourab/)
 
-## ChatBot !! [Live](https://gopoo23.github.io/Chit-Chat-with-Gourab/)
+## ChatBot !!
 
 A chatbot is a computer program that simulates and processes human conversation, allowing humans to interact with digital devices as if they were communicating with a real person.
 
