@@ -114,7 +114,7 @@ function waitAndResponce(inputText) {
             clearChat();
             break;
         case "about":
-            sendTextMessage("🛠️💻 This portfolio website is built using HTML, CSS, JavaScript and Cloud APIs from SCRATCH!<br><br>👨🏻‍💻 Designed and Developed by <a class='alink' target='_blank' href='https://www.linkedin.com/in/gourab-das23/'><span class='bold'>Gourab Das</a> with ❤️</span>");
+            sendTextMessage("🛠️💻 This portfolio website is built using HTML, CSS, JavaScript and Cloud APIs from SCRATCH!<br><br>👨🏻‍💻 Designed and Developed by <a class='alink' target='_blank' href='https://www.linkedin.com/in/gourab-das23/'><span class='bold'>Gourab Das</a> ❤️</span>");
             break;
         case "contact":
             sendTextMessage(contactString);
